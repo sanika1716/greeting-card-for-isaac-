@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For You</title>
+    <style>
+        body {
+            background-color: pink;
+            font-family: 'Dancing Script', cursive;
+            text-align: center;
+            padding: 20px;
+        }
+        @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600&display=swap');
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            max-width: 500px;
+            margin: auto;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        p {
+            font-size: 20px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>For You</h2>
+        <a href="https://ibb.co/3mcZ5sF">
+            <img src="https://i.ibb.co/b5X9j3v/IMG-8250.jpg" alt="Our Picture">
+        </a>
+        <p>
+            Don't know a single thing about websites and coding, but I still wanted to make a small gesture for you in a way that would appeal to you the best.  
+            So here's a card I made for you. I hope you love it.  
+            I love you so much and I'm so grateful to have you. I know I say this a lot, but I think even that isn't enough.  
+            I want you to conquer the world, and I want to be by your side to see you do it all.  
+            I love you so much. Can't wait to spend the rest of my life with you.
+        </p>
+    </div>
+</body>
+</html>
